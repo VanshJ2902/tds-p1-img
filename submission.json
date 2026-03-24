@@ -1,0 +1,7 @@
+{
+  "prompt": "PASTE YOUR EXACT FINAL PROMPT HERE (verbatim, including negative prompts)",
+  "model": "DALL·E 3",
+  "dataset_name": "WHO Air Pollution Database (PM2.5 levels)",
+  "dataset_url": "https://www.who.int/data/gho/data/themes/air-pollution",
+  "insight": "Air pollution is severely damaging human lungs and public health"
+}
